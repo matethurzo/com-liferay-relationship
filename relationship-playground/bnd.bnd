@@ -1,0 +1,4 @@
+Bundle-Name: Liferay Relationship Playground
+Bundle-SymbolicName: com.liferay.relationship.playground
+Bundle-Version: 1.0.0
+Export-Package:
